@@ -17,6 +17,6 @@ public class Tetronimo : MonoBehaviour
     public struct TetronimoData
     {
         public TetronimoShape shape;
-        public Vector2Int[] positions;
+        public Vector3Int[] positions;
     }
 }
